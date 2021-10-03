@@ -4,6 +4,7 @@
 1. Open your chrome based browser
 
 1. Navigate to   *chrome://extensions/*
+    
     (if using other browsers based in chrome, you will be redirected)
 
 1. Enable developer mode, located in the top right of browser window
@@ -14,9 +15,11 @@
 
 1. Select the directory for the extension
 
-1. Now the extension is loaded into your browser, you can enable it on web pages.
+    Now the extension is loaded into your browser, you can enable it on web pages.
 
-1. Navigate to a webpage, click the extensions icon (looks like a puzzle piece) and click the dark mode extension :)
+1. Navigate to a webpage, click the extensions icon (looks like a puzzle piece) 
+
+    click the dark mode extension :)
 
 ### The purpose of this project is to create a chrome extension that can make any web page go dark mode. 
 
