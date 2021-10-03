@@ -3,9 +3,7 @@ Clone the project down to your machine
 
 Open your chrome based browser
 
-Navigate to 
-
-chrome://extensions/
+Navigate to   *chrome://extensions/*
 
 (if using other browsers based in chrome, you will be redirected)
 
