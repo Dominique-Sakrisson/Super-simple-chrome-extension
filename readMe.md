@@ -54,13 +54,9 @@
 
 ## action 
     
-    are the components that will be rendered in the extension
-
-## Popups
+    The components that will be rendered in the extension
+    
+    1. Popups
 
     The content displayed when the user opens the extension
-
-### Content Script
-
-  
 
