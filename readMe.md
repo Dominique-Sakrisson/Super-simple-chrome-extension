@@ -43,6 +43,10 @@
     JavaScript code that's run in a separate instance in the browser, 
     and it's mostly used for listening to events and handling a 
     browser wide state.
+    
+    1. service worker
+        
+          Code that is injected into the context of the webpage (regular web code html, css, js)
 
 ## permissions 
     
@@ -58,5 +62,5 @@
 
 ### Content Script
 
-    Code that is injected into the context of the webpage (regular web code html, css, js)
+  
 
