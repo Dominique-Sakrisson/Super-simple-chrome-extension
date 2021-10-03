@@ -1,3 +1,7 @@
+# The purpose of this project is to create a chrome extension that can make any web page go dark mode. 
+
+*** 
+
 # To Use:
 1. Clone the project down to your machine
 
@@ -21,7 +25,7 @@
 
     click the dark mode extension :)
 
-### The purpose of this project is to create a chrome extension that can make any web page go dark mode. 
+
 
 
 
