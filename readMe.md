@@ -7,6 +7,7 @@
     (if using other browsers based in chrome, you will be redirected)
 
 1. Enable developer mode, located in the top right of browser window
+    
     A few button options should now be in the browser window top left.
 
 1. Select 'Load Unpacked'
