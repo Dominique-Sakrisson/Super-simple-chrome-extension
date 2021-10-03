@@ -58,5 +58,5 @@
     
     1. Popups
 
-    The content displayed when the user opens the extension
+        The content displayed when the user opens the extension
 
