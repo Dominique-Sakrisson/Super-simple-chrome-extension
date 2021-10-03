@@ -40,7 +40,8 @@
 
 ## background 
     
-    JavaScript code that's run in a separate instance in the browser, and it's mostly used for listening to events and handling a 
+    JavaScript code that's run in a separate instance in the browser, 
+    and it's mostly used for listening to events and handling a 
     browser wide state.
 
 ## permissions 
