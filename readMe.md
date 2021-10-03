@@ -25,28 +25,28 @@
 
 
 
-### The manifest file is the setup for the chrome extension
+# The manifest file is the setup for the chrome extension
 
-### Components of the manifest file
+# Components of the manifest file
 
-### the manifest_version
+## the manifest_version
     
     specifies the verions of chrome to interact with
     is adviced to be 3
 
-### background 
+## background 
     
     JavaScript code that's run in a separate instance in the browser, and it's mostly used for listening to events and handling a browser wide state.
 
-### permissions 
+## permissions 
     
     The apis within chrome the app will be accessing
 
-### action 
+## action 
     
     are the components that will be rendered in the extension
 
-### Popups
+## Popups
 
     The content displayed when the user opens the extension
 
